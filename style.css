@@ -1,0 +1,90 @@
+/* Custom Styles*/
+
+/*purple #996699
+blue #006699
+gray #CCCCCC
+black #222222
+*/
+
+body {
+  font-family: 'Roboto Condensed',sans-serif;
+  text-transform: uppercase;
+}
+
+header {
+  background-color: #222222;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: 800;
+}
+h2 {
+  font-size: 30px;
+  font-weight: 800;
+  padding-bottom: 10px;
+  letter-spacing: 1px;
+}
+header p {
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 2px;
+}
+.bg_line {
+  background-color: #006699;
+  height: 16px;
+}
+
+.main {
+  text-align: center;
+  width: 100%;
+  display: flex;
+  margin: 10px 15px;
+}
+.score {
+  width: 32%;
+  text-align: center;
+}
+.game {
+  width: 32%;
+  text-align: center;
+}
+.settings {
+    width: 32%;
+    text-align: center;
+}
+table {
+  padding: 10px 10px;
+  margin: 0 auto;
+}
+td {
+border: 1px solid black;
+height: 100px;
+width: 100px;
+text-align: center;
+}
+footer {
+  background-color: #222222;
+  text-align: center;
+  color: white;
+  font-size: 14px;
+  font-weight: 400;
+  padding-bottom: 10px;
+}
+.social_media{
+  padding: 8px;
+  text-align: center;
+}
+
+.social_media a{
+  display: inline-block;
+  margin: 0 10px;
+}
+.social_media a img{
+  height: 35px;
+  -webkit-filter: brightness(0) invert();
+  filter: brightness(0) invert();
+}
