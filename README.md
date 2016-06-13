@@ -1,4 +1,4 @@
-# tic
+# CTTT
 Tic Tac Toe Homework
 
 This is the completed version of my first homework project. A simple game of tic tac toe, rendered
